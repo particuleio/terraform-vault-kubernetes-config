@@ -1,6 +1,6 @@
-# terraform-module-template
+# terraform-vault-kubernetes-config
 
-Repository template for Particule's Terraform module.
+Module to configure and manage Vault configuration on Kubernetes
 
 ## Usage
 
