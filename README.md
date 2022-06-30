@@ -52,6 +52,7 @@ No modules.
 |------|-------------|------|---------|:--------:|
 | <a name="input_auth_backends"></a> [auth\_backends](#input\_auth\_backends) | n/a | `any` | `{}` | no |
 | <a name="input_cluster-name"></a> [cluster-name](#input\_cluster-name) | n/a | `any` | n/a | yes |
+| <a name="input_github_organization"></a> [github\_organization](#input\_github\_organization) | n/a | `any` | n/a | yes |
 | <a name="input_github_roles_teams"></a> [github\_roles\_teams](#input\_github\_roles\_teams) | n/a | `any` | `{}` | no |
 | <a name="input_github_roles_users"></a> [github\_roles\_users](#input\_github\_roles\_users) | n/a | `any` | `{}` | no |
 | <a name="input_kubernetes_roles"></a> [kubernetes\_roles](#input\_kubernetes\_roles) | n/a | `any` | `{}` | no |
