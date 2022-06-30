@@ -12,7 +12,7 @@ resource "vault_kubernetes_auth_backend_config" "kubernetes" {
 }
 
 resource "vault_github_auth_backend" "github" {
-  organization = "skillz-blockchain"
+  organization = var.github_organization
 }
 
 resource "vault_github_team" "teams" {
