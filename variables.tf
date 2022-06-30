@@ -33,6 +33,8 @@ variable "github_roles_users" {
   default = {}
 }
 
+variable "github_organization" {}
+
 variable "cluster-name" {}
 
 variable "auth_backends" {
